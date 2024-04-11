@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_leaf - checks node for leafm 
+ * binary_tree_is_leaf - checks node for leaf
  * @node: node to check
  *
  * Return: 1, 0 or 0
